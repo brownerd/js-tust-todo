@@ -35,6 +35,11 @@ Here is a list of Tuts that I want to do. They just keep on piling up.
 - [ ] [Building robust web apps with React: Part 4, server-side rendering](http://maketea.co.uk/2014/06/30/building-robust-web-apps-with-react-part-4.html)
 
 
+- [ ] [React.js Tutorial Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
+- [ ] [React.js Tutorial Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
+- [ ] [React.js Tutorial Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
+- [ ] [React.js Tutorial Part 4](http://www.joshfinnie.com/blog/reactjs-tutorial-part-4/)
+
 #### Video
 - [ ] [Learn React, Flux, and Flow: Part I](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM)
 - [ ] [:+1: Thinking in React](http://tagtree.tv/thinking-in-reacthttp://tagtree.tv/thinking-in-react) TagTree
@@ -45,10 +50,11 @@ Here is a list of Tuts that I want to do. They just keep on piling up.
 
 
 ### Node
-- [ ] [Implement OAuth into your Express, Koa or Hapi applications using Grant](https://scotch.io/tutorials/implement-oauth-into-your-express-koa-or-hapi-applications-using-grant)
-- [Creating Your First Desktop App With HTML, JS and Node-WebKit](http://tutorialzine.com/2015/01/your-first-node-webkit-app/)
-- [Creating an NPM-driven Website](http://tutorialzine.com/2015/03/npm-driven-website/http://tutorialzine.com/2015/03/npm-driven-website/)
+- [ ]  [ ] [Implement OAuth into your Express, Koa or Hapi applications using Grant](https://scotch.io/tutorials/implement-oauth-into-your-express-koa-or-hapi-applications-using-grant)
+- [ ]  [Creating Your First Desktop App With HTML, JS and Node-WebKit](http://tutorialzine.com/2015/01/your-first-node-webkit-app/)
+- [ ]  [Creating an NPM-driven Website](http://tutorialzine.com/2015/03/npm-driven-website/http://tutorialzine.com/2015/03/npm-driven-website/)
 
+- [ ]  [List of 40 tutorials on how to create an API](http://blog.mashape.com/list-of-40-tutorials-on-how-to-create-an-api/)
 
 - [ ] [Building a simple command line tool with npm](http://blog.npmjs.org/post/118810260230/building-a-simple-command-line-tool-with-npm)
 - [ ] [Adding subcommands to your command line tool](http://blog.npmjs.org/post/119317128765/adding-subcommands-to-your-command-line-tool)
@@ -62,3 +68,10 @@ Here is a list of Tuts that I want to do. They just keep on piling up.
 - [ ] [RiotJS Example](http://robertwpearce.com/blog/riotjs-example/)
 - [ ] [Riot TODO MVC](http://www.3den.org/riotjs-todomvc/)
 - [ ] [React TODO MVC](http://todomvc.com/examples/react/#/)
+
+
+
+## SLACK
+
+- [ ] [Building a Slack Bot with Node.js and Chuck Norris Super Powers](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers)
+- [ ] [Say Hello To Your First Slackbot](http://devdactic.com/first-slackbot/)
